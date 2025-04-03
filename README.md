@@ -4,7 +4,8 @@ A data-driven recommendation system meant to help isers find the perfect laptop 
 ### Project Overview
 With the overwhelming number of laptops in the market, choosing the right one can very tiring and difficult. This laptop recommendation system simplifies the process by giving personalized laptop recommendations based on specifications and user preferences. 
 
-This project uses machine learning to build a recommendation system that helps consumers make informed decisions while helping businesses understand the market trends. 
+This project uses machine learning to build a recommendation system that helps consumers make informed decisions while helping businesses understand the market trends. The model I developed shows an output of 10 recommended laptops based on specifications as shown below. 
+
 
 #### Why this Project ??
 The laptop market is highly diverse making it challenging for users to choose the best device. 
