@@ -21,6 +21,16 @@ Often, businesses struggle to understand customer needs and demand trends hence 
 
 3. Differentiating user personas allows companeis to personalize the marketing strategies and improves targeted advertisements for different customer segments.
 
-4. Knowing brands and comparing the performance helps manufacturers and retailers understand brand positioning and gain a competitive advantage in the market. 
+4. Knowing brands and comparing the performance helps manufacturers and retailers understand brand positioning and gain a competitive advantage in the market.
+
+
+#### Future Improvements
+- Improve filtering logic with more user inputs 
+- Add a login feature for users
+- Integrate product prices from an online store
+
+#### What I Learned
+- How to build a Streamlit app for ML deployment
+- How to filter a dataset based on user input
 
 
